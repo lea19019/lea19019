@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+[JS Journey](https://github.com/lea19019/JS-Journey)
+
+[MyList+ App](https://github.com/lea19019/cse341-node-team)
+
+[Node.js Learning](https://github.com/lea19019/Node.js-Learning)
+
+[MERN To Do App](https://github.com/lea19019/MERN-To-Do-App)
+
+[PHP Motors](https://github.com/lea19019/PHP-Motors)
+
+[Data Structures Tutorial](https://github.com/lea19019/DataStructure-Tutorial)
+
+[Alebrije Mobile App](https://github.com/lea19019/Alebrije-MobileApp)
+
+[Babel App](https://github.com/lea19019/Babel)
+
+[Trivia Maze Game](https://github.com/lea19019/Trivia-Maze)
+
 <!--
 **lea19019/lea19019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
