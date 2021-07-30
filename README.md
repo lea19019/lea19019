@@ -18,6 +18,9 @@
 
 [Trivia Maze Game](https://github.com/lea19019/Trivia-Maze)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lea19019&layout=compact)
+
+
 <!--
 **lea19019/lea19019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
