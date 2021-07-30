@@ -18,7 +18,7 @@
 
 [Trivia Maze Game](https://github.com/lea19019/Trivia-Maze)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lea19019&layout=compact)
+
 
 
 <!--
