@@ -1,7 +1,4 @@
-# Que rollo!
-
-I'm Adrian, welcome to my GitHub page.
-Here you'll find my repos containing notes of my learnings and a few projects. :v:
+# Hey!
 
 
 
